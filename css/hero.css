@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-image: url(../img/woody-back.jpg);
+	background-repeat: repeat;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Fredoka One', cursive;
+}
+
+header h1{
+	color: yellow;
+	font-size: 75px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid #faca25;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: #1a4bda;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: #1a4bda;
+}
+a:hover{
+	color: #e5b212;
+}
+
+footer{
+	background-image: url(../img/fl.jpg);
+	background-repeat: repeat;
+	text-align: center;
+	color: #faca25;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: #faca25;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+}
+
+
