@@ -57,9 +57,9 @@ footer{
 	background-image: url(../img/fl.jpg);
 	background-repeat: repeat;
 	text-align: center;
-	color: #faca25;
-	-webkit-text-stroke: 1px #4D87E1;
-	font-size: 27px;
+	color: yellow;
+	-webkit-text-stroke: .5px #4D87E1;
+	font-size: 28px;
 	padding: 50px;
 }
 
@@ -68,9 +68,9 @@ footer p{
 }
 
 footer a{
-	color: #faca25;
-	-webkit-text-stroke: 1px #4D87E1;
-	font-size: 27px;
+	color: yellow;
+	-webkit-text-stroke: .5px #4D87E1;
+	font-size: 28px;
 }
 footer a:hover{
 	opacity: .5;
