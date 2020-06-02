@@ -19,6 +19,7 @@ h1, h2{
 
 header h1{
 	color: yellow;
+	-webkit-text-stroke: 4px #4D87E1;
 	font-size: 75px;
 }
 
@@ -41,6 +42,7 @@ main img{
 h2{
 	font-size: 35px;
 	color: #1a4bda;
+	-webkit-text-stroke: 1px #faca25;
 	margin: 40px 0 10px;
 }
 
@@ -56,6 +58,8 @@ footer{
 	background-repeat: repeat;
 	text-align: center;
 	color: #faca25;
+	-webkit-text-stroke: 1px #4D87E1;
+	font-size: 27px;
 	padding: 50px;
 }
 
@@ -65,6 +69,8 @@ footer p{
 
 footer a{
 	color: #faca25;
+	-webkit-text-stroke: 1px #4D87E1;
+	font-size: 27px;
 }
 footer a:hover{
 	opacity: .5;
